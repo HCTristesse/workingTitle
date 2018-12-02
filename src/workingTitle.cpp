@@ -5,7 +5,7 @@
  implied. This program is -not- in the public domain. */
 
 /* This program was requested by Patrick Earl; hopefully someone else
- will write the equivalent Direct3D immediate mode program. */
+ will write the equivalent Direct3D immediate mode program. Hallo Mario */
 
 #include <windows.h>
 #include <GL/glut.h>
